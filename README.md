@@ -1,6 +1,7 @@
 ![Docker Cloud Build Status](https://img.shields.io/docker/cloud/build/denisix/nginx-digest?style=flat-square)
 ![Docker Cloud Automated build](https://img.shields.io/docker/cloud/automated/denisix/nginx-digest?style=flat-square)
 ![Docker Pulls](https://img.shields.io/docker/pulls/denisix/nginx-digest?style=flat-square)
+![Docker Image Size (latest by date)](https://img.shields.io/docker/image-size/denisix/nginx-digest?style=flat-square)
 
 # nginx-digest
 Dockerfile to create docker image, based on official nginx image + atomx/nginx-http-auth-digest
